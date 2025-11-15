@@ -1,4 +1,6 @@
 # TP1 - Programmation Dynamique par Réflexion
+<img width="1731" height="973" alt="image" src="https://github.com/user-attachments/assets/2f38cd0a-c37d-46df-a1e9-bc59c87a94e8" />
+
 
 Ce projet est un exemple simple d'injection de dépendances en utilisant la réflexion en Java. Il est divisé en trois couches : DAO, Metier et Présentation.
 
